@@ -37,10 +37,10 @@ Adding a new featured app — or bumping a featured app's pinned tag — should 
 `tytus-app-catalog` itself is tag-pinned. The Tytus OS shell fetches:
 
 ```
-https://cdn.jsdelivr.net/gh/traylinx/tytus-app-catalog@v0.1.0/featured.json
+https://cdn.jsdelivr.net/gh/traylinx/tytus-app-catalog@v0.2.0/featured.json
 ```
 
-Bump the catalog tag whenever you ship a meaningful change. New OS builds reference newer catalog tags.
+Current Tytus OS builds reference `v0.2.0`. Bump the catalog tag whenever you ship a meaningful change; bump the constant `FEATURED_CATALOG_URL` in `app/src/apps/featured-apps-catalog.ts` (tytus-os) and the corresponding constant in `cli/src/main.rs` (tytus-cli) when a new tag should become the default.
 
 ## License
 
