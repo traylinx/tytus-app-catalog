@@ -1,16 +1,8 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 6,
-  "updatedAt": "2026-05-04T18:05:00Z",
+  "version": 7,
+  "updatedAt": "2026-05-04T18:18:00Z",
   "apps": [
-    {
-      "id": "juli3ta",
-      "name": "JULI3TA",
-      "description": "AI-native music creator: prompt, lyrics, pod music generation, library gallery, and audio playback.",
-      "icon": "Music",
-      "category": "Creative",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@v0.1.0/tytus-app.json"
-    },
     {
       "id": "text-editor",
       "name": "Text Editor",
