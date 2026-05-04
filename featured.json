@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 3,
-  "updatedAt": "2026-05-04T14:35:00Z",
+  "version": 4,
+  "updatedAt": "2026-05-04T15:10:00Z",
   "apps": [
     {
       "id": "juli3ta",
@@ -9,7 +9,7 @@
       "description": "AI-native music creator. Currently alpha — full Music Creator UI lift in progress.",
       "icon": "Music",
       "category": "Creative",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@v0.0.1-alpha.1/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@v0.0.2-alpha.1/tytus-app.json"
     },
     {
       "id": "text-editor",
