@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 7,
-  "updatedAt": "2026-05-04T18:18:00Z",
+  "version": 8,
+  "updatedAt": "2026-05-04T18:38:13Z",
   "apps": [
     {
       "id": "text-editor",
@@ -42,6 +42,14 @@
       "icon": "Plug",
       "category": "DevTools",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-api-tester@v0.1.0/tytus-app.json"
+    },
+    {
+      "id": "juli3ta",
+      "name": "JULI3TA",
+      "description": "Full AI-native music creator for Tytus OS. Create songs, lyrics, covers, and manage your local music workbench.",
+      "icon": "juli3ta:mark",
+      "category": "Creative",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@juli3ta-0.2.1/tytus-app.json"
     }
   ]
 }
