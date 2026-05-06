@@ -14,10 +14,11 @@
     {
       "id": "openhouse",
       "name": "OpenHouse",
-      "description": "Visual agent house for Tytus pods and third-party AI agents — rooms, bodies, moods, probes, and safe status diagnostics.",
+      "description": "Visual agent house for Tytus pods and third-party AI agents \u2014 rooms, bodies, moods, probes, and safe status diagnostics.",
       "icon": "Building2",
       "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@v1.1.1/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@v1.1.2/tytus-app.json",
+      "version": "1.1.2"
     },
     {
       "id": "photo-editor",
