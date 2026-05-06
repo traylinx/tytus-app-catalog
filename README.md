@@ -28,7 +28,7 @@ Adding a new featured app — or bumping a featured app's pinned tag — should 
 ## Adding an app
 
 1. Publish your app to its own public repo at `github.com/<owner>/tytus-app-<id>`.
-2. Tag a `v0.X.Y` release with a built `dist/index.js` + `tytus-app.json`.
+2. Tag a release with a built `dist/index.js` + `tytus-app.json` (Forge currently uses `0.1.0`; older apps may use `v0.X.Y`).
 3. Open a PR here adding an entry to `apps[]`.
 4. Merge → tag a new `v0.X.Y` of `tytus-app-catalog` → users see your app the next time the App Store refreshes.
 
@@ -40,7 +40,7 @@ Adding a new featured app — or bumping a featured app's pinned tag — should 
 https://cdn.jsdelivr.net/gh/traylinx/tytus-app-catalog@v0.2.0/featured.json
 ```
 
-Current Tytus OS builds reference `v0.2.0`. Bump the catalog tag whenever you ship a meaningful change; bump the constant `FEATURED_CATALOG_URL` in `app/src/apps/featured-apps-catalog.ts` (tytus-os) and the corresponding constant in `cli/src/main.rs` (tytus-cli) when a new tag should become the default.
+Current Tytus OS builds fetch the catalog from the mutable `main` branch so featured-app additions and Forge version bumps do not require an OS rebuild. Keep app manifest URLs pinned to immutable app tags; only this catalog pointer is mutable. For historical releases, tags such as `v0.7.0` remain available.
 
 ## License
 

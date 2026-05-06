@@ -1,31 +1,15 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 8,
-  "updatedAt": "2026-05-04T18:38:13Z",
+  "version": 9,
+  "updatedAt": "2026-05-06T10:20:00Z",
   "apps": [
     {
-      "id": "text-editor",
-      "name": "Text Editor",
-      "description": "Plain-text editor with multi-file tabs, syntax highlighting, search/replace, and word-wrap.",
-      "icon": "FileText",
+      "id": "forge",
+      "name": "Tytus Forge",
+      "description": "Standalone vscode.dev-style Monaco workbench for local files, markdown preview, and future Tytus agents/Cortex workflows.",
+      "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-text-editor@v0.1.1/tytus-app.json"
-    },
-    {
-      "id": "code-editor",
-      "name": "Code Editor",
-      "description": "Code editor with file tree, syntax highlighting, and live folder watch.",
-      "icon": "Code2",
-      "category": "DevTools",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-code-editor@v0.1.0/tytus-app.json"
-    },
-    {
-      "id": "markdown-preview",
-      "name": "Markdown Preview",
-      "description": "Live markdown editor and preview with split-pane view.",
-      "icon": "FileCode",
-      "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-markdown-preview@v0.1.0/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-forge@0.1.0/tytus-app.json"
     },
     {
       "id": "photo-editor",
