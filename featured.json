@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 11,
-  "updatedAt": "2026-05-06T19:05:00Z",
+  "version": 12,
+  "updatedAt": "2026-05-06T19:08:32Z",
   "apps": [
     {
       "id": "forge",
@@ -17,7 +17,7 @@
       "description": "Visual agent house for Tytus pods and third-party AI agents — rooms, bodies, moods, probes, and safe status diagnostics.",
       "icon": "Building2",
       "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@v1.0.1/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@main/tytus-app.json"
     },
     {
       "id": "photo-editor",
