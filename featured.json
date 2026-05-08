@@ -1,20 +1,20 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 17,
+  "version": 18,
   "updatedAt": "2026-05-08T00:00:00Z",
   "apps": [
     {
       "id": "atomek",
       "name": "Atomek",
-      "description": "Clean Monaco workspace for local files, markdown preview, and search. No fake remote repository, tunnel, terminal, or extension surfaces.",
+      "description": "Monaco workspace with local files, chat/output panels, extension connectors, markdown preview, and search.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-atomek@v0.2.0/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-atomek@v0.2.1/tytus-app.json"
     },
     {
       "id": "openhouse",
       "name": "OpenHouse",
-      "description": "Visual agent house for Tytus pods and third-party AI agents — rooms, bodies, moods, probes, and safe status diagnostics.",
+      "description": "Visual agent house for Tytus pods and third-party AI agents \u2014 rooms, bodies, moods, probes, and safe status diagnostics.",
       "icon": "Building2",
       "category": "Productivity",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@e0835ba8c5d5c4a8aad4033b1e0aa7b603c59e38/tytus-app.json",
