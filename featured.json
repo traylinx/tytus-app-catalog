@@ -1,15 +1,15 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 16,
-  "updatedAt": "2026-05-06T19:43:41Z",
+  "version": 17,
+  "updatedAt": "2026-05-08T00:00:00Z",
   "apps": [
     {
-      "id": "forge",
-      "name": "Tytus Forge",
-      "description": "Standalone vscode.dev-style Monaco workbench for local files, markdown preview, and future Tytus agents/Cortex workflows.",
+      "id": "atomek",
+      "name": "Atomek",
+      "description": "Clean Monaco workspace for local files, markdown preview, and search. No fake remote repository, tunnel, terminal, or extension surfaces.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-forge@0.1.0/tytus-app.json"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-atomek@v0.2.0/tytus-app.json"
     },
     {
       "id": "openhouse",
