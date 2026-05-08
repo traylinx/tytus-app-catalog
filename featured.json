@@ -1,6 +1,6 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 27,
+  "version": 28,
   "updatedAt": "2026-05-08T20:28:48Z",
   "apps": [
     {
@@ -9,8 +9,8 @@
       "description": "Monaco workspace with local files, chat/output panels, extension connectors, markdown preview, and search.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.3.7/tytus-app.json",
-      "version": "0.3.7"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.3.8/tytus-app.json",
+      "version": "0.3.8"
     },
     {
       "id": "openhouse",
