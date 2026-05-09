@@ -1,6 +1,6 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 33,
+  "version": 34,
   "updatedAt": "2026-05-09T14:09:19Z",
   "apps": [
     {
@@ -9,13 +9,13 @@
       "description": "Monaco workspace with intelligent AIL chat, dynamic file context, semantic retrieval, manual edit-check loop, artifacts, markdown preview, and AI edit previews.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.3/tytus-app.json",
-      "version": "0.4.3"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.4/tytus-app.json",
+      "version": "0.4.4"
     },
     {
       "id": "openhouse",
       "name": "OpenHouse",
-      "description": "Visual agent house for Tytus pods and third-party AI agents \u2014 rooms, bodies, moods, probes, and safe status diagnostics.",
+      "description": "Visual agent house for Tytus pods and third-party AI agents — rooms, bodies, moods, probes, and safe status diagnostics.",
       "icon": "Building2",
       "category": "Productivity",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-openhouse@e0835ba8c5d5c4a8aad4033b1e0aa7b603c59e38/tytus-app.json",
