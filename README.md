@@ -4,7 +4,16 @@ Curated catalog of Featured apps for the [Tytus OS](https://github.com/traylinx/
 
 ## Why a separate repo
 
-Adding a new featured app — or bumping a featured app's pinned tag — should NOT require an OS release. This repo is the source of truth; the App Store fetches it via jsDelivr each session, falling back to a hardcoded built-in catalog if the fetch fails.
+Adding a new featured app, or bumping a featured app's pinned tag, should NOT require an OS release. This repo is the source of truth; the App Store fetches it via jsDelivr each session, falling back to a hardcoded built-in catalog if the fetch fails.
+
+
+## Current featured production apps
+
+| App | Current pinned manifest | Notes |
+|---|---|---|
+| Atomek | `traylinx/tytus-app-atomek@v0.4.11/tytus-app.json` | Local files, Monaco editor, chat, artifacts, AIL routing, Computer / Agents. |
+
+Keep app manifest URLs pinned to immutable app tags. The catalog pointer can move; app bundles should not.
 
 ## Schema
 
