@@ -9,8 +9,8 @@
       "description": "Monaco workspace with intelligent AIL chat, dynamic file context, semantic retrieval, AI edit previews, and Tytus computer/agent controller.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.9/tytus-app.json",
-      "version": "0.4.9"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.11/tytus-app.json",
+      "version": "0.4.11"
     },
     {
       "id": "openhouse",
