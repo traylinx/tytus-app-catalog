@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 37,
-  "updatedAt": "2026-05-09T16:40:34Z",
+  "version": 38,
+  "updatedAt": "2026-05-10T07:19:51Z",
   "apps": [
     {
       "id": "atomek",
