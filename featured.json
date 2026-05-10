@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 46,
-  "updatedAt": "2026-05-10T15:39:18Z",
+  "version": 47,
+  "updatedAt": "2026-05-10T16:01:18Z",
   "apps": [
     {
       "id": "atomek",
@@ -9,8 +9,8 @@
       "description": "Monaco workspace with intelligent AIL chat, dynamic file context, semantic retrieval, AI edit previews, and Tytus computer/agent controller.",
       "icon": "Sparkles",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.14/tytus-app.json",
-      "version": "0.4.14"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.15/tytus-app.json",
+      "version": "0.4.15"
     },
     {
       "id": "openhouse",
