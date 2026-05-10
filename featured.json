@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 41,
-  "updatedAt": "2026-05-10T10:05:00Z",
+  "version": 42,
+  "updatedAt": "2026-05-10T12:16:21Z",
   "apps": [
     {
       "id": "atomek",
@@ -43,8 +43,8 @@
       "description": "Full AI-native music creator for Tytus OS. Create songs, lyrics, covers, and manage your local music workbench.",
       "icon": "juli3ta:mark",
       "category": "Creative",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@juli3ta-0.3.12/tytus-app.json",
-      "version": "0.3.12"
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@juli3ta-0.3.13/tytus-app.json",
+      "version": "0.3.13"
     }
   ]
 }
