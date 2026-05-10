@@ -11,7 +11,7 @@ Adding a new featured app, or bumping a featured app's pinned tag, should NOT re
 
 | App | Current pinned manifest | Notes |
 |---|---|---|
-| Atomek | `traylinx/tytus-app-atomek@v0.4.15/tytus-app.json` | Mission Control, Monaco editor, intelligent chat, artifacts, AIL routing, and Control Tower resources. |
+| Atomek | `traylinx/tytus-app-atomek@v0.4.16/tytus-app.json` | Mission Control, Monaco editor, intelligent chat, artifacts, AIL routing, and Control Tower resources. |
 
 Keep app manifest URLs pinned to immutable app tags. The catalog pointer can move; app bundles should not.
 
