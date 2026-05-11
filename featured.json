@@ -1,16 +1,16 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 50,
-  "updatedAt": "2026-05-10T22:05:14Z",
+  "version": 51,
+  "updatedAt": "2026-05-11T09:10:00Z",
   "apps": [
     {
       "id": "atomek",
       "name": "Atomek",
-      "description": "Monaco workspace with intelligent AIL chat, dynamic file context, semantic retrieval, AI edit previews, and Tytus computer/agent controller.",
-      "icon": "Sparkles",
+      "description": "Branded Tytus Resource Fabric cockpit for OpenClaw/Hermes pods, local agents, shared folders, app skills, files, chat, artifacts, and approval-gated outputs.",
+      "icon": "atomek:mark",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.19/tytus-app.json",
-      "version": "0.4.19"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.20/tytus-app.json",
+      "version": "0.4.20"
     },
     {
       "id": "openhouse",
