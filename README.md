@@ -11,7 +11,7 @@ Adding a new featured app, or bumping a featured app's pinned tag, should NOT re
 
 | App | Current pinned manifest | Notes |
 |---|---|---|
-| Atomek | `traylinx/tytus-app-atomek@v0.4.20/tytus-app.json` | Branded Tytus Resource Fabric cockpit, Monaco editor, intelligent chat, artifacts, AIL routing, mission folders, OpenClaw/Hermes pods, local agents, shared folders, app skills, and approval-gated outputs. |
+| Atomek | `traylinx/tytus-app-atomek@v0.4.21/tytus-app.json` | Branded Tytus Resource Fabric cockpit, Monaco editor, intelligent chat, artifacts, AIL routing, embedded docs/skills, mission folders, OpenClaw/Hermes pods, local agents, shared folders, app skills, and approval-gated outputs. |
 
 Keep app manifest URLs pinned to immutable app tags. The catalog pointer can move; app bundles should not.
 
