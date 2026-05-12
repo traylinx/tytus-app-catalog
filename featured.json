@@ -9,8 +9,8 @@
       "description": "Branded Tytus Resource Fabric cockpit with persistent workspace state, embedded docs/skills, OpenClaw/Hermes pods, local agents, shared folders, app skills, chat, artifacts, and approval-gated outputs.",
       "icon": "atomek:mark",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.22/tytus-app.json",
-      "version": "0.4.22"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.23/tytus-app.json",
+      "version": "0.4.23"
     },
     {
       "id": "openhouse",
