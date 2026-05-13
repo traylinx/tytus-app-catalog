@@ -1,7 +1,7 @@
 {
   "$schema": "https://tytus.traylinx.com/schema/catalog/v1.json",
-  "version": 56,
-  "updatedAt": "2026-05-13T07:26:12Z",
+  "version": 57,
+  "updatedAt": "2026-05-13T07:58:04Z",
   "apps": [
     {
       "id": "atomek",
@@ -9,8 +9,8 @@
       "description": "Branded Tytus Resource Fabric cockpit with persistent workspace state, embedded docs/skills, OpenClaw/Hermes pods, local agents, shared folders, app skills, chat, artifacts, and approval-gated outputs.",
       "icon": "atomek:mark",
       "category": "Productivity",
-      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.24/tytus-app.json",
-      "version": "0.4.24"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-atomek/v0.4.25/tytus-app.json",
+      "version": "0.4.25"
     },
     {
       "id": "openhouse",
@@ -43,8 +43,8 @@
       "description": "Full AI-native music creator for Tytus OS. Create songs, lyrics, covers, and manage your local music workbench.",
       "icon": "juli3ta:mark",
       "category": "Creative",
-      "manifestUrl": "https://cdn.jsdelivr.net/gh/traylinx/tytus-app-juli3ta@juli3ta-0.3.20/tytus-app.json",
-      "version": "0.3.20"
+      "manifestUrl": "https://raw.githubusercontent.com/traylinx/tytus-app-juli3ta/juli3ta-0.3.21/tytus-app.json",
+      "version": "0.3.21"
     }
   ]
 }
